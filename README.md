@@ -8,15 +8,20 @@
 
 해야할 것
 -----------------------------------------------------
-1. 공부한 내용 정리하여 txt파일로 업로드
--> /PythonNewbie/자신의 폴더/Note/Chapter2(자료형).txt
-2. 문제 풀이 코드 .py 파일로 업로드
--> /PythonNewbie/자신의 폴더/PS/BOJ 문제번호.py
+1. 아래 사이트 각자 공부하기
+-> https://wikidocs.net/book/1
 
-ex) 오늘 3장 공부했을 경우
-/PythonNewbie/Chulmin/Note/Chapter3(제어문).txt
+2. 아래 사이트 각자 풀이(업로드 X)
+-> https://wikidocs.net/book/922
 
-ex) 백준 12345번 풀이
+3. BOJ/SWEA 문제 풀이 코드 .py 파일로 업로드
+-> 카톡방 공지
+
+
+ex) 오늘 3장 공부했을 경우(/PythonNewbie/자신의 폴더/Note/Chapter2(자료형).txt)
+-> /PythonNewbie/Chulmin/Note/Chapter3(제어문).txt
+
+ex) 백준 12345번 풀이(/PythonNewbie/자신의 폴더/PS/BOJ 문제번호.py)
 /PythonNewbie/Chulmin/PS/BOJ 12345.py
 
 ex) SoftWare Expert Academy 1234번 풀이
